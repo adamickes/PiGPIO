@@ -1,4 +1,4 @@
-ChristmasPi
+PiGPIO
 ===========
 
 Raspberry Pi C programs for GPIO control
